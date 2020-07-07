@@ -1,0 +1,4 @@
+tasks:
+  - command: gp open src/code-test.ts
+  - init: npm install
+    command: npm test
